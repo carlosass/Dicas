@@ -1,0 +1,6 @@
+------------------------------------------------------------------------
+ALTERAR\REMOVER\INCLUIR DADOS (SE16N\N):
+------------------------------------------------------------------------
+
+1 - Executar transação SE16N\N debugando;
+2 - Alterar variáveis GD-SAPEDIT = 'X' e GD-EDIT = 'X';
