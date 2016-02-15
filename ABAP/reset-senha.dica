@@ -1,0 +1,7 @@
+------------------------------------------------------------------------
+RESETAR SENHA:
+------------------------------------------------------------------------
+
+1 - Executar função 'CALL_TRANSACTION_AUTH'
+2 - Chamar a SU01 debugando;
+3 - Setar '0' no sy-subrc depois do authority check;
